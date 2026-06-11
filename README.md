@@ -1,5 +1,4 @@
-# Project SentinelAI: Autonomous Adversarial Red-Teaming & Self-Healing LLM Firewall
-
+# Aegis: A Self Healing LLM Firewall
 > **Enterprise-Grade Security Framework for Large Language Model Applications**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
